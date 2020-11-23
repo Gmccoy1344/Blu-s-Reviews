@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient( #5AB9EA, #CAFAFE);
+}
+
+h1{
+    color: brown;
+}
+
+
+.col-parent{
+    padding-top: 15px;
+}
+
+.card{
+    border-style: inset;
+    border-color: darkcyan;
+    align-items: center;
+    border-radius: 10%;
+}
+
+.row_size{
+    height: 250px;
+}
+
+.img{
+    align-self: center;
+}
+
+.social, .contact, .pageNm, .card-footer, .card-body, .logo{
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
+
+.fa-paw{
+    color: #5AB9EA;
+}
