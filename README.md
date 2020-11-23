@@ -1,2 +1,0 @@
-# Blu-s-Reviews
-Hello I'm Greg McCoy and this is my first project using bootstrap. This is a project that was given to me as an assignment attending a coding bootcamp to help appy what I learn to real world applications. On this project I am able to experiment with everything bootstrap has to offer. This project will also become a momento when I look back from the future to see how far I have developed in web development.
