@@ -18,15 +18,11 @@ h1{
     border-radius: 10%;
 }
 
-.row_size{
-    height: 250px;
-}
-
 .img{
     align-self: center;
 }
 
-.social, .contact, .pageNm, .card-footer, .card-body, .logo{
+.pageNm, .card-footer, .card-body, .logo{
     text-align: center;
 }
 
@@ -34,6 +30,10 @@ li{
     list-style: none;
 }
 
-.fa-paw{
+.a:link, a:visited, .fa-paw, h4{
     color: #5AB9EA;
+}
+
+.contactUs:link .contactUs:visited{
+    color: dimgray;
 }
