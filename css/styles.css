@@ -15,7 +15,7 @@ h1{
     border-style: inset;
     border-color: darkcyan;
     align-items: center;
-    border-radius: 10%;
+    border-radius: 5%;
 }
 
 .img{
@@ -36,4 +36,9 @@ li{
 
 .contactUs:link .contactUs:visited{
     color: dimgray;
+}
+
+.card-img-top{
+    height: 250px;
+    object-fit: contain;
 }
